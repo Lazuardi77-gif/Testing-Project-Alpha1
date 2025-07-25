@@ -1,0 +1,55 @@
+body {
+    background-image: url('gambar3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-attachment: fixed;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #f0f0f0;
+}
+
+.h1 {
+    color: rgb(232, 232, 232);
+    text-align: center;
+}
+
+#introduction {
+    background-color: rgba(2, 19, 255, 0.498);
+    border-radius: 10px;
+    font-size: 1.2em;
+    line-height: 1.5;
+    margin: 20px;
+    border-color: red;
+}
+
+#h1p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(232, 232, 232);
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 10px;
+    font: Segoe UI;
+}
+
+.introduction1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(232, 232, 232);
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 20px;
+    font: Segoe UI;
+}
+
+.introduction2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(232, 232, 232);
+    text-align: center;
+    font-size: 1.0em;
+    margin-top: 5px;
+    font: Segoe UI;
+}
